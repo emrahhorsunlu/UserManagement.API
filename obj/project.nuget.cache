@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ks8f9IMRXpKDc5cZT5Qqh2Wapt2QTm4zef+ZLM4ZotlS3D6JAWK3vix3qlq5ixjXUMfIvAYAbzHNmK7SNeObGA==",
+  "success": true,
+  "projectFilePath": "D:\\VStudioProjects\\UserManagement\\UserManagement.API\\UserManagement.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emrah\\.nuget\\packages\\bogus\\35.5.1\\bogus.35.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
