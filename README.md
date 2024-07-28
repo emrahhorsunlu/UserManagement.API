@@ -1,2 +1,2 @@
 # UserManagement.API
- development with .NET CORE Web API
+ development with .NET Core
